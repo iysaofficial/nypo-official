@@ -29,15 +29,15 @@ const ContactComp = () =>{
                     </ul>
                 </div>
                 <div className="contact-form-wrap">
-                    <form action="">
+                    <form action="https://formspree.io/f/xzbnolwg" method="POST">
                         <h2 className="contact-form-title">Kirim Pesan</h2>
                         <div className="contact-form-fields">
                             <div className="contact-form-group">
-                                <input type="text" className="fname" placeholder="Masukan nama anda"/>
+                                <input type="text" name="name" className="fname" placeholder="Masukan nama anda"/>
                             </div>
                           
                             <div className="contact-form-group">
-                                <input type="email" className="email" placeholder="Masukan email anda"/>
+                                <input type="email" name="email" className="email" placeholder="Masukan email anda"/>
                             </div>
 
                             <div className="contact-form-group">

@@ -378,6 +378,7 @@
     display: flex;
     width: 45%;
     margin: 30px 0;
+    border-radius: 1rem;
 }
 
 .category-container .category-card .category-imgBx{
@@ -393,6 +394,7 @@
     align-items: center;
     overflow: hidden;
     transition: 0.5s ease-in-out;
+    border-radius: 1rem;
 }
 
 .category-container .category-card:hover .category-imgBx{
@@ -710,7 +712,7 @@
 .contact-social-icons li i {
     background: #FF9800;
     color: #fff;
-    padding: 15px;
+    padding: 10px;
     font-size: 20px;
     border-radius: 22%;
     margin: 0px 5px;
@@ -822,6 +824,13 @@
         margin: 10px 0px;
     }
    
+}
+
+
+@media only screen and (max-width: 400px){
+    .contact-info-details li a{
+        font-size: .9rem;
+    }
 }
 
 /* contact section end */

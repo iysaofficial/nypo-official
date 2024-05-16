@@ -4,6 +4,7 @@ const HeroComp = () => {
        
         <section className="hero-section">
             <div className="hero-container">
+                <br />
                 <img src="./assets/images/logo/NYPO.png" alt=""/>
                 <h1>National Youth Physics Olympiad</h1>
                 <p>Pendaftaran International Youth Physics Olympiad telah dibuka!<br /> dengan acara bergengsi ini dan dapatkan pengalaman yang tak terlupakan!

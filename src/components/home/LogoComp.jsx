@@ -3,7 +3,7 @@ const LogoComp = () =>{
         <>
         <section className="brand-logo-section">
         <div className="brand-logo-container">
-            <h1>Organized By</h1>
+            <h1>Diselenggarakan Oleh</h1>
             <div className="brand-logo">
                 <ul>
                     <li>
@@ -15,7 +15,7 @@ const LogoComp = () =>{
                 </ul>
             </div>
             <br/>
-            <h1>Supported By</h1>
+            <h1>Didukung Oleh</h1>
             <div className="brand-logo">
                 <ul>
                     <li>

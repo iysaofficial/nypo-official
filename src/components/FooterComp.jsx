@@ -47,7 +47,7 @@ const FooterComp = () => {
                             <span><i className='fa-solid fa-phone'></i></span><p><a href="https://wa.me/+6281770914129" target='_blank'>+62817-7091-4129</a></p>
                         </li>
                         <li>
-                            <span><i className='fa-solid fa-envelope'></i></span><p><a href="mailto:youngscientist.iysa@gmail.com" target='_blank'>youngscientist.iysa@gmail.com</a></p>
+                            <span><i className='fa-solid fa-envelope'></i></span><p><a href="mailto:nypoofficial@gmail.com" target='_blank'>nypoofficial@gmail.com</a></p>
                         </li>
                     </ul>
                 </div>

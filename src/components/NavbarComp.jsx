@@ -50,18 +50,13 @@ const NavbarComp = () =>{
                     <li className='menu-item'><a href="#contact-section-wrapper">Kontak</a></li>
                     {/* <li className='menu-item'><a href="https://drive.google.com/drive/folders/1l_bCazIZmdtOSUjAuBAgXTg7YEBTixPY" target='_blank'>Certificate Supervisor</a></li> */}
 
-                    {/* <li className='menu-item'>
-                        <a className='sub-btn' href="#">Curation <i className='fas fa-angle-down'></i></a>
-                        <ul className='sub-menu'>
-                            <li className='sub-item'><a href="https://drive.google.com/drive/folders/1XiQPYXktmf47cO6g1sZ9HfprPE6A-5Ok" target='_blank'>IYEO 2023</a></li>
-                        </ul>
-                    </li>
+
                     <li className='menu-item'>
-                        <a className='sub-btn' href="#">List of Winner <i className='fas fa-angle-down'></i></a>
+                        <a className='sub-btn' href="#">Sertifikat Supervisor <i className='fas fa-angle-down'></i></a>
                         <ul className='sub-menu'>
-                            <li className='sub-item'><a href="https://drive.google.com/file/d/1fguKg3dnfY3YTBwxsyx-3xq3l4VIlNta/view" target='_blank'>IYEO 2023</a></li>
+                            <li className='sub-item'><a href="https://drive.google.com/drive/folders/1bYotKQV-jsxLIbsrlsFMpXsKh5EZc0y2?usp=drive_link" target='_blank'>Sertifikat Supervisor 2024</a></li>
                         </ul>
-                    </li> */}
+                    </li> 
                     {/* <li className='menu-item'>
                         <a className='sub-btn' href="#">With Sub-dropdown <i className='fas fa-angle-down'></i></a>
                         <ul className='sub-menu'>

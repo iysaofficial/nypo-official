@@ -550,6 +550,65 @@
 
 /* category section end */
 
+
+/* after event start */
+
+.after-event-section{
+    min-height: 100vh;
+    /* background: #; */
+    padding: 5rem 9% 5rem;
+    background: #fff;
+}
+
+.after-event-row{
+    /* display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem; */
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 1rem;
+}
+
+/* @media (max-width: 768px){
+    .after-event-row{
+        flex-direction: column;
+    }
+} */
+
+
+.after-event-section .after-event-heading h1{
+    font-size: 30px;
+    font-weight: 500;
+    text-align: center;
+    position: relative;
+    margin-top: 2rem;
+    margin-bottom: 3rem;
+    color: #000;
+}
+
+.after-event-section .after-event-heading h1:after{
+    content: '';
+    position: absolute;
+    width: 100px;
+    height: 4px;
+    background-color: #FF9800;
+    bottom: -20px;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+}
+
+.after-event-section p{
+    text-align: justify;
+    font-size: 1rem;
+    align-items: center;
+    color: #000;
+}
+/* after event end */
+
+
+
 /* newsletter section start */
 
 .newsletter-section{
@@ -647,7 +706,7 @@
     width: 100%;
     padding: 10px;
     min-height: 100vh;
-    background-color: #FEFDED;
+    background-color: #fff;
 }
 .contact-box-wrapper{
     position: relative;

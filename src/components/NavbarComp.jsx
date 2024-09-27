@@ -49,7 +49,12 @@ const NavbarComp = () =>{
                     <li className='menu-item'><a href="https://drive.google.com/file/d/1mE_vdNwDjM9Kohc_0WlROf7Lkdm62tMZ/view?usp=sharing" target='_blank'>Buku Panduan</a></li>
                     {/* <li className='menu-item'><a href="#contact-section-wrapper">Kontak</a></li> */}
                     {/* <li className='menu-item'><a href="https://drive.google.com/drive/folders/1l_bCazIZmdtOSUjAuBAgXTg7YEBTixPY" target='_blank'>Certificate Supervisor</a></li> */}
-
+                    <li className='menu-item'>
+                        <a className='sub-btn' href="#">Liputan Media <i className='fas fa-angle-down'></i></a>
+                        <ul className='sub-menu'>
+                            <li className='sub-item'><a href="https://drive.google.com/file/d/1Kf-TDvAVoVyKQCjkXfioeJAMS4bZZYAA/view?usp=sharing" target='_blank'>Press Release 2024</a></li>
+                        </ul>
+                    </li> 
                     <li className='menu-item'>
                         <a className='sub-btn' href="#">Daftar Pemenang <i className='fas fa-angle-down'></i></a>
                         <ul className='sub-menu'>

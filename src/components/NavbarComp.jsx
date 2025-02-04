@@ -58,6 +58,7 @@ const NavbarComp = () =>{
                     <li className='menu-item'>
                         <a className='sub-btn' href="#">Daftar Pemenang <i className='fas fa-angle-down'></i></a>
                         <ul className='sub-menu'>
+                            <li className='sub-item'><a href="https://drive.google.com/file/d/1kt2kog3aRUKw07KYcm90ukh1ANOuO2Zt/view?usp=sharing" target='_blank'>Daftar Pemenang 2025</a></li>
                             <li className='sub-item'><a href="https://drive.google.com/file/d/1AS-LH4HLaqT33iyC6c3ibZKd-lsP3U8x/view?usp=drive_link" target='_blank'>Daftar Pemenang 2024</a></li>
                         </ul>
                     </li> 
@@ -71,6 +72,7 @@ const NavbarComp = () =>{
                     <li className='menu-item'>
                         <a className='sub-btn' href="#">Sertifikat Supervisor <i className='fas fa-angle-down'></i></a>
                         <ul className='sub-menu'>
+                            <li className='sub-item'><a href="https://drive.google.com/drive/folders/1HYevQOGrxqVCRxbtw0Hp8r1WlFSJbq4E?usp=sharing" target='_blank'>Sertifikat Supervisor 2025</a></li>
                             <li className='sub-item'><a href="https://drive.google.com/drive/folders/1bYotKQV-jsxLIbsrlsFMpXsKh5EZc0y2?usp=drive_link" target='_blank'>Sertifikat Supervisor 2024</a></li>
                         </ul>
                     </li> 

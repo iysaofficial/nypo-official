@@ -13,11 +13,11 @@ const ContactComp = () =>{
                         </li>
                         <li>
                             <i className="fa-solid fa-envelope"></i>
-                            <span></span><a href="mailto:nypoofficial@gmail.com" target="_blank">nypoofficial@gmail.com</a>
+                            <span></span><a href="mailto:iysa.olympiad@gmail.com" target="_blank">iysa.olympiad@gmail.com</a>
                         </li>
                         <li>
                             <i className="fas fa-phone-alt"></i>
-                            <span></span><a href="https://wa.me/+6281770914129" target="_blank">+62817-7091-4129</a>
+                            <span></span><a href="https://wa.me/+6283870026877" target="_blank">+6283870026877</a>
                         </li>
                     </ul>
                     <ul class="contact-social-icons">

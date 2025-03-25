@@ -44,10 +44,10 @@ const FooterComp = () => {
                             <span><i className='fa-solid fa-location-dot'></i></span><p><a href="https://goo.gl/maps/9x18coXGCmSscKec6" target='_blank'>Jl. Kemang, Pasir Putih, Kecamatan. Sawangan, Kota Depok, Jawa Barat 16519</a></p>
                         </li>
                         <li>
-                            <span><i className='fa-solid fa-phone'></i></span><p><a href="https://wa.me/+6281770914129" target='_blank'>+62817-7091-4129</a></p>
+                            <span><i className='fa-solid fa-phone'></i></span><p><a href="https://wa.me/+6283870026877" target='_blank'>+6283870026877</a></p>
                         </li>
                         <li>
-                            <span><i className='fa-solid fa-envelope'></i></span><p><a href="mailto:nypoofficial@gmail.com" target='_blank'>nypoofficial@gmail.com</a></p>
+                            <span><i className='fa-solid fa-envelope'></i></span><p><a href="mailto:iysa.olympiad@gmail.com" target='_blank'>iysa.olympiad@gmail.com</a></p>
                         </li>
                     </ul>
                 </div>

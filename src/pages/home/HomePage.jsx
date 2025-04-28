@@ -6,6 +6,7 @@ import NewsletterComp from "../../components/home/NewsletterComp"
 import ContactComp from "../../components/home/ContactComp"
 import '../../assets/css/home/Home.css'
 import AfterEventComp from "../../components/home/AfterEventComp"
+import NewsComp from '../../components/home/NewsComp'
 
 const HomePage = () => {
     return(
@@ -19,6 +20,7 @@ const HomePage = () => {
         <AfterEventComp></AfterEventComp>
         <NewsletterComp></NewsletterComp>
         <ContactComp></ContactComp>
+        {/* <NewsComp></NewsComp> */}
         <LogoComp></LogoComp>
         </>
     )

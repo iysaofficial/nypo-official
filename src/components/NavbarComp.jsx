@@ -49,27 +49,27 @@ const NavbarComp = () =>{
                     <li className='menu-item'><a href="https://drive.google.com/file/d/1xjalmo873BJAOGBJrzJG_29ygd9BbQ5f/view?usp=sharing" target='_blank'>Buku Panduan</a></li>
                     {/* <li className='menu-item'><a href="#contact-section-wrapper">Kontak</a></li> */}
                     {/* <li className='menu-item'><a href="https://drive.google.com/drive/folders/1l_bCazIZmdtOSUjAuBAgXTg7YEBTixPY" target='_blank'>Certificate Supervisor</a></li> */}
-                    <li className='menu-item'>
+                    {/* <li className='menu-item'>
                         <a className='sub-btn' href="#">Liputan Media <i className='fas fa-angle-down'></i></a>
                         <ul className='sub-menu'>
                             <li className='sub-item'><a href="https://drive.google.com/file/d/1xtNRUdpRV1YpfkqCYINwnbG83y-La-bU/view?usp=sharing" target='_blank'>Press Release 2025</a></li>
                             <li className='sub-item'><a href="https://drive.google.com/file/d/1Kf-TDvAVoVyKQCjkXfioeJAMS4bZZYAA/view?usp=sharing" target='_blank'>Press Release 2024</a></li>
                         </ul>
-                    </li> 
+                    </li>  */}
                     <li className='menu-item'>
-                        <a className='sub-btn' href="#">Daftar Pemenang <i className='fas fa-angle-down'></i></a>
-                        <ul className='sub-menu'>
+                        <a className='sub-btn' href="/ListOfWinnerAllPage">Daftar Pemenang </a>
+                        {/* <ul className='sub-menu'>
                             <li className='sub-item'><a href="https://drive.google.com/file/d/1kt2kog3aRUKw07KYcm90ukh1ANOuO2Zt/view?usp=sharing" target='_blank'>Daftar Pemenang 2025</a></li>
                             <li className='sub-item'><a href="https://drive.google.com/file/d/1AS-LH4HLaqT33iyC6c3ibZKd-lsP3U8x/view?usp=drive_link" target='_blank'>Daftar Pemenang 2024</a></li>
-                        </ul>
+                        </ul> */}
                     </li> 
-                    <li className='menu-item'>
+                    {/* <li className='menu-item'>
                         <a className='sub-btn' href="#">Kurasi <i className='fas fa-angle-down'></i></a>
                         <ul className='sub-menu'>
                             <li className='sub-item'><a href="https://drive.google.com/drive/folders/1GX6vTuVSFexUabNK4Gx0J86kSBhNeNJ3?usp=sharing" target='_blank'>Kurasi 2025</a></li>
                             <li className='sub-item'><a href="https://drive.google.com/drive/folders/1zWjmXL40yto118u2ydFRTJPEMv4W3jRG?usp=sharing" target='_blank'>Kurasi 2024</a></li>
                         </ul>
-                    </li> 
+                    </li>  */}
                     
                     <li className='menu-item'>
                         <a className='sub-btn' href="#">Sertifikat Supervisor <i className='fas fa-angle-down'></i></a>
